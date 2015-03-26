@@ -1,0 +1,28 @@
+[
+	{"Autor":"Silvia",
+	"Avatar":"avatar2.jpg",
+	"Titulo":"Aprobado!!",
+	"Contenido":"He aprobado el TFG, acabada la carrera :)",
+	"Fecha":"11/03/2015"},
+	
+	{"Autor":"Irene",
+	"Avatar":"avatar4.jpg",
+	"Titulo":"Vuelve ya!!",
+	"Contenido":"Queremos verte!!! ¿Que dia vuelves?",
+	"Fecha":"05/03/2015"},
+
+	{"Autor":"Cristina",
+	"Avatar":"avatar3.jpg",
+	"Titulo":"Que envidia...",
+	"Contenido":"Unas de viaje... y otras estudiando  :( pasalo genial ajajajaja",
+	"Fecha":"01/03/2015"},
+	
+	{"Autor":"Silvia",
+	"Avatar":"avatar2.jpg",
+	"Titulo":"Buen viaje",
+	"Contenido":"Itziar Pasalo genial en el viaje :) saca muchas fotos !!!!",
+	"Fecha":"01/03/2015"},
+
+	
+
+]

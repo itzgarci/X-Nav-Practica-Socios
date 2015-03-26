@@ -1,0 +1,20 @@
+[
+	{"Autor":"Itziar",
+	"Avatar":"avatar1.jpg",
+	"Titulo":"Con ganas de fiesta",
+	"Contenido":"Despues de una noche de descanso espero que alguien hoy quiera salir conmigo de fiesta !!!!",
+	"Fecha":"11/03/2015"},
+
+	{"Autor":"Itziar",
+	"Avatar":"avatar1.jpg",
+	"Titulo":"Fotos",
+	"Contenido":"En cuanto pueda voy a ir subiendo fotos, espero que os gusten :)",
+	"Fecha":"10/03/2015"},
+	
+	{"Autor":"Itziar",
+	"Avatar":"avatar1.jpg",
+	"Titulo":"Recien llegada",
+	"Contenido":"Acabo de llegar de mi gran viaje por el extranjero, ya os ire contando!!! :)",
+	"Fecha":"10/03/2015"}
+	
+]
